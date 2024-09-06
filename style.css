@@ -44,6 +44,11 @@
   
     text-align: center;
   }
+
+  .bg-shaded {
+    backdrop-filter: blur(10px);
+    padding: 1rem;
+  }
   
   .buffer {
     width: 100%;
